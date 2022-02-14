@@ -1,0 +1,13 @@
+C:\Users\Mark Paxton\Code\argumentation-solver\src\main\java\com\example\argumentationsolver\ArgumentationSolverApplication.java
+C:\Users\Mark Paxton\Code\argumentation-solver\src\main\java\com\example\argumentationsolver\ArgumentationSolverApplicationConfig.java
+C:\Users\Mark Paxton\Code\argumentation-solver\src\main\java\com\example\argumentationsolver\interfaces\services\IOutputService.java
+C:\Users\Mark Paxton\Code\argumentation-solver\src\main\java\com\example\argumentationsolver\services\Iccma2021Options.java
+C:\Users\Mark Paxton\Code\argumentation-solver\src\main\java\com\example\argumentationsolver\interfaces\services\ICommandOptionsConfig.java
+C:\Users\Mark Paxton\Code\argumentation-solver\src\main\java\com\example\argumentationsolver\interfaces\services\ISemanticProcessor.java
+C:\Users\Mark Paxton\Code\argumentation-solver\src\main\java\com\example\argumentationsolver\services\StdOutOutputService.java
+C:\Users\Mark Paxton\Code\argumentation-solver\src\main\java\com\example\argumentationsolver\interfaces\services\IGraphFileService.java
+C:\Users\Mark Paxton\Code\argumentation-solver\src\main\java\com\example\argumentationsolver\interfaces\models\ILabelling.java
+C:\Users\Mark Paxton\Code\argumentation-solver\src\main\java\com\example\argumentationsolver\interfaces\models\ILabellingBuilder.java
+C:\Users\Mark Paxton\Code\argumentation-solver\src\main\java\com\example\argumentationsolver\services\GraphFileService.java
+C:\Users\Mark Paxton\Code\argumentation-solver\src\main\java\com\example\argumentationsolver\models\Labelling.java
+C:\Users\Mark Paxton\Code\argumentation-solver\src\main\java\com\example\argumentationsolver\models\LabellingBuilder.java
