@@ -1,6 +1,4 @@
-# Argumentation Solver # 
-
-This is a spring boot command line application to solve Abstract Argumentation Frameworks according to ICCMA participation rules.
+# Stock Price KPI # 
 
 ## Congifuration ##
 
